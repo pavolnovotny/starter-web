@@ -1,5 +1,5 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology colophon Added more text fo rebasing example.
 
 # TEAM
 
@@ -16,3 +16,6 @@
 
 
 team Lacko
+
+
+modifivation at readme file
