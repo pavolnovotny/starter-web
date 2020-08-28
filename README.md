@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 
 ##change
 something changed
+
+copyright
