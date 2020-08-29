@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 This repository is for showing how Git and GitHub work
 This repository is for showing how Git and GitHub work
-Adding a lofr for rebasing example
+Adding a lofr for rebasing example, then mroe changes from myfeatrre 
 
 ## Purpose
 
