@@ -15,6 +15,6 @@
     HTML5, CSS3
     jQuery, Modernizr
 
-    ## Avast Avast technology
+  
 
 
