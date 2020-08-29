@@ -8,19 +8,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-
-##change
-something changed
-
-copyright
+## copyright
 
 
-fort this repository 
-
-added new line
-
-
-reabsing reabsing erasdasdasdasd
-
-
----conflicksdsdsd
