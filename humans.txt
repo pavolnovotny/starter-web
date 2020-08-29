@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    to all students
 
 # TECHNOLOGY COLOPHON
 
@@ -15,7 +15,3 @@
     jQuery, Modernizr
 
 
-team Lacko
-
-
-modifivation at readme file
