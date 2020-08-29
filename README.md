@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## copyright
+All rights reserved.
 
 created bz Lacko 2020
 
@@ -19,3 +20,4 @@ created bz Lacko 2020
 
 
 <!-- changing readm me file -->
+
