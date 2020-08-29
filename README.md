@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 
 ## copyright
 
+created bz Lacko 2020
+
 
